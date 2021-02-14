@@ -1,5 +1,5 @@
 # Omega_up_Exercises
-Python code exercises from Omega u
+Python code exercises from Omega up
 
 
 Source: 
